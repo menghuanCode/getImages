@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>获取页面样式</title>
+    <style>
+        #elem-container{
+            position: absolute;
+            left:     100px;
+            top:      200px;
+            height:   100px;
+            background-image: url("../");
+        }
+    </style>
+
+
+</head>
+<body>
+
+    <div id="elem-container">dummy</div>
+    <div id="output"></div>
+
+    <script>
+        function getTheStyle(){
+            let elem = document.getElementById("elem-container");
+            let theCSSprop = window.getComputedStyle(elem,null).getPropertyValue("background-image");
+            document.getElementById("output").innerHTML = theCSSprop;
+        }
+        getTheStyle();
+    </script>
+    <script src="index.js"></script>
+</body>
+</html>
