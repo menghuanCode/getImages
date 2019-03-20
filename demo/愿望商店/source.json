@@ -6,6 +6,7 @@
       "height": "50px",
       "left": 318,
       "top": 609,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/5b6a96a66b11f92d06b74df670f806cb_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -17,6 +18,7 @@
       "height": "50px",
       "left": 7,
       "top": 609,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/5549d9cb0c40ce643df39f39a306f7e4_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -28,6 +30,7 @@
       "height": "50px",
       "left": 257,
       "top": 609,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/672b89deab5f66ede382991e349640b0_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -37,12 +40,13 @@
       "type": "Slide",
       "width": "20px",
       "height": "20px",
-      "left": "-10px",
-      "top": "-10.2px",
+      "left": 40,
+      "top": 606.0125122070312,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/62330b9ac274da5dac40bf97ef0f6cc2_origin.png",
-          "opacity": "0"
+          "opacity": "1"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/06af7aee6f20d6375c66352a89441146_origin.png",
@@ -50,7 +54,7 @@
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/57a812042dd8c6e64fdfac73f97934ea_origin.png",
-          "opacity": "1"
+          "opacity": "0"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3229e7dc157f1b4e2e437f0957b529c9_origin.png",
@@ -80,6 +84,7 @@
       "height": "70px",
       "left": "-38px",
       "top": "-35px",
+      "zIndex": "0",
       "hasAction": true,
       "fixed": false,
       "hide": false
@@ -90,6 +95,7 @@
       "height": "748px",
       "left": "-211px",
       "top": "-374px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -100,6 +106,7 @@
       "height": "265px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/7f1f1c9517e340fe386181d2da44677e_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -109,16 +116,17 @@
       "type": "Slide",
       "width": "195px",
       "height": "325px",
-      "left": "-97.5px",
-      "top": "-162.5px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/74ef53e3e34712389bab58efaf1c6bc5_origin.png",
-          "opacity": "0"
+          "opacity": "1"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/c570c939c1740c71abdeaeb3b323165a_origin.png",
-          "opacity": "1"
+          "opacity": "0"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/99aaa40d4e583e08b5546550146dcec8_origin.png",
@@ -241,7 +249,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -250,19 +258,20 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
-          "opacity": "0"
+          "opacity": "1"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/c47829f8ae0863863be55e2762154cf2_origin.png",
-          "opacity": "1"
+          "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -271,19 +280,20 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
-          "opacity": "0"
+          "opacity": "1"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/c47829f8ae0863863be55e2762154cf2_origin.png",
-          "opacity": "1"
+          "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -294,6 +304,7 @@
       "height": "50px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cee3bc6d9f0d848e01cf95e7dc3be79a_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -305,6 +316,7 @@
       "height": "393.5px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/458f8527e42a85588d3e5e98a20e070e_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -316,6 +328,7 @@
       "height": "44.5px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/1858de0d4a89e8769d87de02f4161e34_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -327,6 +340,7 @@
       "height": "10px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/dd9c702ea4eb9115cbf44714b46f8b24_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -336,16 +350,17 @@
       "type": "Slide",
       "width": "80px",
       "height": "65px",
-      "left": "-40px",
-      "top": "-32.5px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9e838f82a8b02516edc1e634462762d0_origin.png",
-          "opacity": "0"
+          "opacity": "1"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/d27a214b4436c05d427c9d4abfb5b2f3_origin.png",
-          "opacity": "1"
+          "opacity": "0"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/15643edf034784552194fe5ba7440b30_origin.png",
@@ -472,7 +487,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -481,12 +496,13 @@
       "type": "Slide",
       "width": "80px",
       "height": "65px",
-      "left": "-40px",
-      "top": "-32.5px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9e838f82a8b02516edc1e634462762d0_origin.png",
-          "opacity": "0"
+          "opacity": "1"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/d27a214b4436c05d427c9d4abfb5b2f3_origin.png",
@@ -494,7 +510,7 @@
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/15643edf034784552194fe5ba7440b30_origin.png",
-          "opacity": "1"
+          "opacity": "0"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/e15108be13becede18ba7b098fad5bb4_origin.png",
@@ -617,7 +633,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -626,8 +642,9 @@
       "type": "Slide",
       "width": "80px",
       "height": "65px",
-      "left": "-40px",
-      "top": "-32.5px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9e838f82a8b02516edc1e634462762d0_origin.png",
@@ -762,7 +779,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -771,8 +788,9 @@
       "type": "Slide",
       "width": "80px",
       "height": "65px",
-      "left": "-40px",
-      "top": "-32.5px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9e838f82a8b02516edc1e634462762d0_origin.png",
@@ -907,7 +925,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -916,8 +934,9 @@
       "type": "Slide",
       "width": "80px",
       "height": "65px",
-      "left": "-40px",
-      "top": "-32.5px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9e838f82a8b02516edc1e634462762d0_origin.png",
@@ -1052,7 +1071,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1061,8 +1080,9 @@
       "type": "Slide",
       "width": "80px",
       "height": "65px",
-      "left": "-40px",
-      "top": "-32.5px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9e838f82a8b02516edc1e634462762d0_origin.png",
@@ -1197,7 +1217,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1208,6 +1228,7 @@
       "height": "50px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cee3bc6d9f0d848e01cf95e7dc3be79a_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -1217,8 +1238,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1229,7 +1251,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1238,8 +1260,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1250,7 +1273,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1259,8 +1282,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1271,7 +1295,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1280,8 +1304,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1292,7 +1317,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1301,16 +1326,17 @@
       "type": "Slide",
       "width": "220px",
       "height": "21px",
-      "left": "-110px",
-      "top": "-10.5px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/origin/1bb00c60246626eec159043f079f9559_origin_bDUvQom.png",
-          "opacity": "0"
+          "opacity": "1"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0b51d26b0b3dec734e324a63dfc6d9c8_origin.png",
-          "opacity": "1"
+          "opacity": "0"
         },
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/4d80c9eb4898e2cb24e05ae955766432_origin.png",
@@ -1329,7 +1355,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1340,6 +1366,7 @@
       "height": "33px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/c44d5593c304546a7795c6e4779debcd_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -1351,6 +1378,7 @@
       "height": "31px",
       "left": "-65px",
       "top": "-15.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1361,6 +1389,7 @@
       "height": "138px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/b3db82b065fd58c06783315ae1124cf4_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -1372,6 +1401,7 @@
       "height": "44px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/ba61e4c69cff2eb3b4ff73b6a81502a1_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -1381,8 +1411,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1393,7 +1424,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1402,8 +1433,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1414,7 +1446,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1423,8 +1455,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1435,7 +1468,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1444,8 +1477,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1456,7 +1490,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1465,8 +1499,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1477,7 +1512,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1486,8 +1521,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1498,7 +1534,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1507,8 +1543,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1519,7 +1556,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1528,8 +1565,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1540,7 +1578,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1549,8 +1587,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1561,7 +1600,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1570,8 +1609,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1582,7 +1622,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1591,8 +1631,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1603,7 +1644,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1612,8 +1653,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1624,7 +1666,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1633,8 +1675,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1645,7 +1688,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1654,8 +1697,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1666,7 +1710,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1675,8 +1719,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1687,7 +1732,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1696,8 +1741,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1708,7 +1754,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1717,8 +1763,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1729,7 +1776,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1738,8 +1785,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1750,7 +1798,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1759,8 +1807,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1771,7 +1820,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1780,8 +1829,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1792,7 +1842,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1801,8 +1851,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1813,7 +1864,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1822,8 +1873,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1834,7 +1886,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1843,8 +1895,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1855,7 +1908,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1864,8 +1917,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1876,7 +1930,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1885,8 +1939,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1897,7 +1952,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1906,8 +1961,9 @@
       "type": "Slide",
       "width": "79px",
       "height": "44px",
-      "left": "-39.5px",
-      "top": "-22px",
+      "left": 0,
+      "top": 0,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cb5f0334f1971675047612955a7e8f59_origin.png",
@@ -1918,7 +1974,7 @@
           "opacity": "0"
         }
       ],
-      "opactiy": "0",
+      "opactiy": "1",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -1929,6 +1985,7 @@
       "height": "50px",
       "left": "-25px",
       "top": "-25px",
+      "zIndex": "0",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -1939,6 +1996,7 @@
       "height": "748px",
       "left": -25.5,
       "top": 633.65625,
+      "zIndex": "auto",
       "image": "",
       "hasAction": false,
       "fixed": false,
@@ -1950,6 +2008,7 @@
       "height": "554px",
       "left": 96,
       "top": 720.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/28d95acfdcca3fde15f094c0108ed144_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -1961,6 +2020,7 @@
       "height": "887px",
       "left": 431,
       "top": 635.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/e8997a2c9e583d0898af87ce21d65b7b_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -1970,8 +2030,9 @@
       "type": "Slide",
       "width": "113px",
       "height": "92px",
-      "left": "-56.5px",
-      "top": "-46px",
+      "left": 465,
+      "top": 837.65625,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9e838f82a8b02516edc1e634462762d0_origin.png",
@@ -2117,6 +2178,7 @@
       "height": "115px",
       "left": 465,
       "top": 677.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/da2e34f97139626893874e99b81285d5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2128,6 +2190,7 @@
       "height": "9px",
       "left": 458,
       "top": 806.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/e5748ee4779e05e8ebbf823bbbd28911_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2139,6 +2202,7 @@
       "height": "5px",
       "left": 573,
       "top": 924.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/7e361bb7cf9b805e292702493a141422_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2150,6 +2214,7 @@
       "height": "9px",
       "left": 458,
       "top": 997.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/e5748ee4779e05e8ebbf823bbbd28911_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2161,6 +2226,7 @@
       "height": "39px",
       "left": "-54.5px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2171,6 +2237,7 @@
       "height": "39px",
       "left": "-54.5px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2181,6 +2248,7 @@
       "height": "39px",
       "left": "-54.5px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2191,6 +2259,7 @@
       "height": "39px",
       "left": "-54.5px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2201,6 +2270,7 @@
       "height": "9px",
       "left": 458,
       "top": 1146.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/e5748ee4779e05e8ebbf823bbbd28911_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2212,6 +2282,7 @@
       "height": "39px",
       "left": "-166.5px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2222,6 +2293,7 @@
       "height": "39px",
       "left": "-166.5px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2232,6 +2304,7 @@
       "height": "113px",
       "left": 581,
       "top": 1329.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/555980d0a34b4acfc3543ef9ff0e5e8e_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2243,6 +2316,7 @@
       "height": "39px",
       "left": "-54.5px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2253,6 +2327,7 @@
       "height": "31px",
       "left": "-78.5px",
       "top": "-15.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2263,6 +2338,7 @@
       "height": "39px",
       "left": "-85px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2273,6 +2349,7 @@
       "height": "30px",
       "left": "-15px",
       "top": "-15px",
+      "zIndex": "0",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2289,6 +2366,7 @@
       "height": "202px",
       "left": 29,
       "top": 849.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/ea1af2eb10c5df9c0b6100366bb41021_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2300,6 +2378,7 @@
       "height": "39px",
       "left": "-40px",
       "top": "-19.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2310,6 +2389,7 @@
       "height": "132px",
       "left": 106,
       "top": 924.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3574b9ed17531b75290a4d48c47b434b_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2321,6 +2401,7 @@
       "height": "334px",
       "left": -17,
       "top": 1021.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/c84dd755ac7f0dedc7bc47f20dce31ab_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2332,6 +2413,7 @@
       "height": "184px",
       "left": 11,
       "top": 1015.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3071219797f927b8780c6d16fceabac3_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2343,6 +2425,7 @@
       "height": "236px",
       "left": 129,
       "top": 1071.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/98febd15e2db483abbc1e1a97f4c29c8_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2354,6 +2437,7 @@
       "height": "748px",
       "left": "-211px",
       "top": "-374px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -2364,6 +2448,7 @@
       "height": "43px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/df9129108e38f359df135d1fd07f0eb1_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2375,6 +2460,7 @@
       "height": "34.5px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/ffe76827ca41c667696227fe59107aa4_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2386,6 +2472,7 @@
       "height": "243.5px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/b41e4025d37899bd0208070234e54c43_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2397,6 +2484,7 @@
       "height": "43px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/464baaa2046c1eb461af9bc28af9dad2_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2408,6 +2496,7 @@
       "height": "160px",
       "left": "-130px",
       "top": "-80px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -2418,6 +2507,7 @@
       "height": "107px",
       "left": 655,
       "top": 1206.65625,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/f42704ce1c1f10f169662c4ad917b88e_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2429,6 +2519,7 @@
       "height": "50px",
       "left": "-211px",
       "top": "-25px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -2439,6 +2530,7 @@
       "height": "33px",
       "left": "-135px",
       "top": "-16.5px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2449,6 +2541,7 @@
       "height": "42px",
       "left": "-135px",
       "top": "-21px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -2459,6 +2552,7 @@
       "height": "693.694px",
       "left": 0,
       "top": 0,
+      "zIndex": "auto",
       "image": "",
       "hasAction": false,
       "fixed": false,
@@ -2468,8 +2562,9 @@
       "type": "Slide",
       "width": "212px",
       "height": "53px",
-      "left": "-106px",
-      "top": "-26.5px",
+      "left": 613,
+      "top": 851.65625,
+      "zIndex": "0",
       "image": [
         {
           "image": "http://cdn1.zhizhucms.com/materials/13407/origin/63cd526de4cf63c1697a69487559f2a6_origin.png",
@@ -2615,6 +2710,7 @@
       "height": "50px",
       "left": "-211px",
       "top": "-25px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -2625,6 +2721,7 @@
       "height": "42px",
       "left": "-135px",
       "top": "-21px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -2635,6 +2732,7 @@
       "height": "42px",
       "left": "-135px",
       "top": "-21px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": true
@@ -2645,6 +2743,7 @@
       "height": "50px",
       "left": "-25px",
       "top": "-25px",
+      "zIndex": "0",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2655,6 +2754,7 @@
       "height": "50px",
       "left": "-25px",
       "top": "-25px",
+      "zIndex": "0",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2665,6 +2765,7 @@
       "height": "82px",
       "left": "-193px",
       "top": "-41px",
+      "zIndex": "auto",
       "hasAction": false,
       "fixed": false,
       "hide": false
@@ -2675,6 +2776,7 @@
       "height": "34px",
       "left": "-66px",
       "top": "-17px",
+      "zIndex": "auto",
       "hasAction": true,
       "fixed": false,
       "hide": false
@@ -2685,6 +2787,7 @@
       "height": "34px",
       "left": "-66px",
       "top": "-17px",
+      "zIndex": "auto",
       "hasAction": true,
       "fixed": false,
       "hide": false
@@ -2697,6 +2800,7 @@
       "height": "748px",
       "left": -23,
       "top": -40,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/6ae44b63091e22889159fbc7b8c58103_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2708,6 +2812,7 @@
       "height": "100px",
       "left": 371,
       "top": 206,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/fe0fd6041567522b8ce1b613be4f94c6_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2719,6 +2824,7 @@
       "height": "295px",
       "left": 27,
       "top": 39,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/2b8e1d5c1a65c2537055fca2293c2ed8_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2730,6 +2836,7 @@
       "height": "76px",
       "left": 39,
       "top": 470,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/8f0b4e40237a4eac85f41057d114ea0e_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2741,6 +2848,7 @@
       "height": "280px",
       "left": 219,
       "top": 316,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/27f436b41cd49f61f90a23da81d0a0a3_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2752,6 +2860,7 @@
       "height": "168px",
       "left": 239,
       "top": 479,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/49c41b01b768fe87ad5128d5ef5e8613_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2763,6 +2872,7 @@
       "height": "377px",
       "left": 335,
       "top": 282,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3fd1205c38ef29a6c89957140c5828d0_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2774,6 +2884,7 @@
       "height": "128px",
       "left": 335,
       "top": 55,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/89e78c6bfd5c28bcbde260c354b75d5f_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2785,6 +2896,7 @@
       "height": "554px",
       "left": 612,
       "top": 63,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/28d95acfdcca3fde15f094c0108ed144_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2796,6 +2908,7 @@
       "height": "202px",
       "left": 499,
       "top": 171,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/ea1af2eb10c5df9c0b6100366bb41021_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2807,6 +2920,7 @@
       "height": "132px",
       "left": 570,
       "top": 234,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3574b9ed17531b75290a4d48c47b434b_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2818,6 +2932,7 @@
       "height": "334px",
       "left": 448,
       "top": 345,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/c84dd755ac7f0dedc7bc47f20dce31ab_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2829,6 +2944,7 @@
       "height": "184px",
       "left": 474,
       "top": 346,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3071219797f927b8780c6d16fceabac3_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2840,6 +2956,7 @@
       "height": "236px",
       "left": 590,
       "top": 389,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/98febd15e2db483abbc1e1a97f4c29c8_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2851,6 +2968,7 @@
       "height": "208px",
       "left": 814,
       "top": 403,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2862,6 +2980,7 @@
       "height": "58px",
       "left": 816,
       "top": 601,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/654f1fe1697f9ed663fa59279f5f4dbb_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2873,6 +2992,7 @@
       "height": "106px",
       "left": 830,
       "top": 497,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3eca8debdab4d5212c57892620c643f9_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2884,6 +3004,7 @@
       "height": "132px",
       "left": 985,
       "top": 470,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0317ca355c22d1bc1c397ffaab4cff75_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2895,6 +3016,7 @@
       "height": "121px",
       "left": 1073,
       "top": 479,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/4f416c55f28d5ff28bd6fb178509e8d9_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2906,6 +3028,7 @@
       "height": "38px",
       "left": 817,
       "top": 569,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2917,6 +3040,7 @@
       "height": "208px",
       "left": 811,
       "top": 206,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2928,6 +3052,7 @@
       "height": "136px",
       "left": 837,
       "top": 271,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/8deeb79bf2b2d118b51f6de159cc47ab_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2939,6 +3064,7 @@
       "height": "112px",
       "left": 966,
       "top": 292,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/2bb750b6f21d9d05c556eff56a5f7b5e_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2950,6 +3076,7 @@
       "height": "90px",
       "left": 1122,
       "top": 311,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/b571bb260d678156b0cf23981bd2f548_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2961,6 +3088,7 @@
       "height": "38px",
       "left": 814,
       "top": 373,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2972,6 +3100,7 @@
       "height": "208px",
       "left": 808,
       "top": 9,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -2983,6 +3112,7 @@
       "height": "128px",
       "left": 836,
       "top": 82,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/a805715ba02867f6f1ef6281791a4813_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -2994,6 +3124,7 @@
       "height": "134px",
       "left": 946,
       "top": 72,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/a057f618c6e53213f69c1fb4ba70b646_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3005,6 +3136,7 @@
       "height": "123px",
       "left": 1054,
       "top": 83,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9a0ab83947d4d6ff99700bee4aed1a1c_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3016,6 +3148,7 @@
       "height": "38px",
       "left": 811,
       "top": 177,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3027,6 +3160,7 @@
       "height": "208px",
       "left": 1187,
       "top": 399,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3038,6 +3172,7 @@
       "height": "58px",
       "left": 1190,
       "top": 598,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/654f1fe1697f9ed663fa59279f5f4dbb_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3049,6 +3184,7 @@
       "height": "130px",
       "left": 1214,
       "top": 471,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/c9492c198b1f564494f502dc487ebc74_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3060,6 +3196,7 @@
       "height": "120px",
       "left": 1368,
       "top": 478,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/9ef4399e47ff3aec07aa6722e11a8fde_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3071,6 +3208,7 @@
       "height": "104px",
       "left": 1442,
       "top": 492,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/fb20140dbfbdbfd416564f5eb275cc82_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3082,6 +3220,7 @@
       "height": "38px",
       "left": 1190,
       "top": 567,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3093,6 +3232,7 @@
       "height": "208px",
       "left": 1184,
       "top": 203,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3104,6 +3244,7 @@
       "height": "118px",
       "left": 1213,
       "top": 281,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/a8e47fff13dcf25ad4fc91c8774151f0_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3115,6 +3256,7 @@
       "height": "112px",
       "left": 1314,
       "top": 290,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/cd533bab53ce57f2ddd0406cc6edff62_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3126,6 +3268,7 @@
       "height": "96px",
       "left": 1418,
       "top": 308,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3a65f412a339713977e75e0121b779b8_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3137,6 +3280,7 @@
       "height": "87px",
       "left": 1477,
       "top": 310,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/5da058ff40ad4cc6a67ee59b3a5240a1_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3148,6 +3292,7 @@
       "height": "38px",
       "left": 1188,
       "top": 371,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3159,6 +3304,7 @@
       "height": "208px",
       "left": 1181,
       "top": 6,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3170,6 +3316,7 @@
       "height": "124px",
       "left": 1194,
       "top": 80,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/4b61b3c13ef40ccefed3dfc0a8ae645a_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3181,6 +3328,7 @@
       "height": "54px",
       "left": 1301,
       "top": 46,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/5eed9f99cc71a7434e46baaacab6a266_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3192,6 +3340,7 @@
       "height": "120px",
       "left": 1297,
       "top": 89,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0753bd268e9ce1c70802703aecfffe34_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3203,6 +3352,7 @@
       "height": "82px",
       "left": 1427,
       "top": 121,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/eab44ccc563447c70314815a57afab0a_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3214,6 +3364,7 @@
       "height": "109px",
       "left": 1484,
       "top": 90,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/f703096fa543dde36d7222022c76f071_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3225,6 +3376,7 @@
       "height": "38px",
       "left": 1184,
       "top": 175,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3236,6 +3388,7 @@
       "height": "208px",
       "left": 1561,
       "top": 397,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3247,6 +3400,7 @@
       "height": "100px",
       "left": 1594,
       "top": 520,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/ea2eeb67fc3785e6702db993ae9021be_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3258,6 +3412,7 @@
       "height": "96px",
       "left": 1709,
       "top": 495,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/3b26e2578f826f5d9e336360515b7392_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3269,6 +3424,7 @@
       "height": "63px",
       "left": 1841,
       "top": 529,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/e648660f0465f3d503e78b4c775183b3_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3280,6 +3436,7 @@
       "height": "58px",
       "left": 1564,
       "top": 595,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/654f1fe1697f9ed663fa59279f5f4dbb_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3291,6 +3448,7 @@
       "height": "38px",
       "left": 1564,
       "top": 564,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3302,6 +3460,7 @@
       "height": "208px",
       "left": 1558,
       "top": 200,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3313,6 +3472,7 @@
       "height": "86px",
       "left": 1595,
       "top": 318,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/10cb1a4fa0c0e5fcfdafe181a61d8e8c_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3324,6 +3484,7 @@
       "height": "135px",
       "left": 1717,
       "top": 270,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/86696241a697d3ea72d70685522be8a8_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3335,6 +3496,7 @@
       "height": "38px",
       "left": 1562,
       "top": 368,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3346,6 +3508,7 @@
       "height": "208px",
       "left": 1555,
       "top": 3,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/0e7555c17b465777dd12bcc3d656c395_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3357,6 +3520,7 @@
       "height": "77px",
       "left": 1595,
       "top": 123,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/b2f25a0372e0d294fac99790608d23cc_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3368,6 +3532,7 @@
       "height": "128px",
       "left": 1689,
       "top": 77,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/ed772f016384c78368ede39b03136b7b_origin.png",
       "hasAction": true,
       "fixed": false,
@@ -3379,6 +3544,7 @@
       "height": "38px",
       "left": 1557,
       "top": 173,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/35ebfadbbd4676e77f9908ee8ce11ca5_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3390,6 +3556,7 @@
       "height": "309px",
       "left": 196,
       "top": -52,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/a28a18d9c6c704fc9d2f46aa26eb8471_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3401,6 +3568,7 @@
       "height": "64px",
       "left": 39,
       "top": 341,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/6092128991026625212302ca21b49f42_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3412,6 +3580,7 @@
       "height": "40px",
       "left": 40.01335144042969,
       "top": 416,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/7298865082c7a6ae41f6d75aa5dc2a22_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3423,6 +3592,7 @@
       "height": "40px",
       "left": 96.01338195800781,
       "top": 416,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/e1e7836d71e6b9d9e93e6452a1de4163_origin.png",
       "hasAction": false,
       "fixed": false,
@@ -3434,6 +3604,7 @@
       "height": "44px",
       "left": "-90px",
       "top": "-22px",
+      "zIndex": "0",
       "line-height": "36px",
       "font-size": "18px",
       "color": "rgb(94, 255, 32)",
@@ -3449,6 +3620,7 @@
       "height": "97px",
       "left": 1935,
       "top": 71,
+      "zIndex": "auto",
       "image": "http://cdn1.zhizhucms.com/materials/13407/origin/655ebb4fd083761cdc5cfaa1d24a357f_origin.png",
       "hasAction": true,
       "fixed": false,
