@@ -4312,35 +4312,93 @@
 
 <script>
 
-    let source = [];
-    let iViews = $('.iView')
+    let source = {
+        iv: [],
+        ds: []
+    }
 
-    $.each(iViews, function(index, el) {
+    let interactioniViews = $('.interaction-view>.iView')
+    let layeriViews = $('.layer-item>.iView')
 
-        let $iView = $(el)
-        let type = $iView.data('type')
+    source.iv = getData(interactioniViews)
+    source.ds = getData(layeriViews)
 
-        let $element = $iView.find('.Element')
-        let image = $element.find(".image_wrap").css("background-image")
+    function getData(viewEl) {
+        let source = []
+        $.each(viewEl, function (index, el) {
 
+            let iView = $(el)
+            let element = iView.find(".element")
+            let image, type
 
-
-
-        if (image) {
             let data = Object.create(null)
-            data['type'] = type
-            data['width'] = $element.css('width')
-            data['height'] = $element.css('height')
-            data['top'] = $element.offset().top
-            data['left'] = $element.offset().left
-            data['image'] = image.slice(5, -2)
-            source.push(data)
-        }
-    })
 
-    source = source.filter(_ => _.image.length)
+            data['type'] = type = iView.data('type')
+            data['width'] = element.css('width')
+            data['height'] = element.css('height')
+            data['left'] = element.css('left')
+            data['top'] = element.css('top')
+
+            switch (type) {
+                case "ImageBlock": {
+                    image = iView.find(".image_wrap").css("background-image")
+                    data['top'] = element.offset().top
+                    data['left'] = element.offset().left
+                    data['image'] = image.slice(5, -2)
+                    break;
+                }
+                case "Timer": {
+                    data['line-height'] = element.css('line-height')
+                    data['text-center'] = element.css('text-center')
+                    data['font-size'] = element.css('font-size')
+                    data['color'] = element.css('color')
+                    data['font-weight'] = element.css('font-weight')
+                    data['font-family'] = element.css('font-family')
+                    break;
+                }
+                case "Slide": {
+                    data["image"] = []
+                    data["opactiy"] = iView.css('opacity')
+                    element.find("img").each(function (i, item) {
+                        let $item = $(item)
+                        let src = $item.attr("src")
+                        let image = src.indexOf("//") === 0 ? "http:" + src : src
+                        data["image"].push({
+                            image: image,
+                            opacity: $item.css('opacity')
+                        })
+                    })
+                    break;
+                }
+                case "Link": {
+                }
+                case "Shape": {
+                }
+            }
+
+            data['hasAction'] = iView.is('.hasAction') ? true : false
+            data['fixed'] = iView.is('.fixed') ? true : false
+            data['hide'] = iView.is('.hide') ? true : false
+
+
+            if (type !== "Condition" &&
+                type !== "LayerRef" &&
+                type !== "Variable" &&
+                type !== "iParagraph"
+                && type !== "iParagraph") {
+                source.push(data)
+
+                return 1
+            }
+
+        })
+        return source
+    }
+
 
     console.log(source)
+    console.log(JSON.stringify(source))
+
 
 </script>
 
