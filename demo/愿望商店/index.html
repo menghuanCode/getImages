@@ -4346,11 +4346,13 @@
                 }
                 case "Timer": {
                     data['line-height'] = element.css('line-height')
-                    data['text-center'] = element.css('text-center')
+                    data['text-align'] = element.css('text-align')
                     data['font-size'] = element.css('font-size')
                     data['color'] = element.css('color')
                     data['font-weight'] = element.css('font-weight')
                     data['font-family'] = element.css('font-family')
+                    data['top'] = element.offset().top
+                    data['left'] = element.offset().left
                     break;
                 }
                 case "Slide": {

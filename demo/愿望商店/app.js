@@ -18,9 +18,9 @@ let newSource = {
     ds: getNewSource(source.ds)
 }
 
-for (let key in imagesMap) {
-    key && request(key).pipe(fs.createWriteStream(imagesMap[key]))
-}
+// for (let key in imagesMap) {
+//     key && request(key).pipe(fs.createWriteStream(imagesMap[key]))
+// }
 
 
 fs.writeFileSync('newSource.json', JSON.stringify(newSource), function (err) {
